@@ -1,0 +1,69 @@
+Question: What is the primary purpose of a firewall in a network?  
+Option A: To store data securely
+Option B: To encrypt network traffic  
+Option C: To block unauthorized access  
+Option D: To monitor network performance  
+Correct Answer: C
+
+Question: Which of the following is a common type of social engineering attack?  
+Option A: Phishing  
+Option B: SQL Injection  
+Option C: DDoS Attack  
+Option D: Brute Force  
+Correct Answer: A
+
+Question: What does the acronym "CIA" stand for in cybersecurity?  
+Option A: Confidentiality, Integrity, Availability  
+Option B: Confidentiality, Identity, Access  
+Option C: Cryptography, Integrity, Authentication  
+Option D: Cybersecurity, Intelligence, Access  
+Correct Answer: A
+
+Question: Which tool is commonly used for network sniffing?  
+Option A: Nmap  
+Option B: Wireshark  
+Option C: Metasploit  
+Option D: Nessus  
+Correct Answer: B
+
+Question: What is the main purpose of encryption in cybersecurity?  
+Option A: To create backups of data  
+Option B: To hide data from unauthorized access  
+Option C: To speed up network performance  
+Option D: To prevent physical damage to hardware  
+Correct Answer: B
+
+Question: Which protocol is commonly used for secure web communication?  
+Option A: HTTP  
+Option B: FTP  
+Option C: SMTP  
+Option D: HTTPS  
+Correct Answer: D
+
+Question: What is a zero-day vulnerability?  
+Option A: A vulnerability with no known patch  
+Option B: A vulnerability that occurs only on certain days  
+Option C: A vulnerability that is not harmful  
+Option D: A vulnerability that has been fixed  
+Correct Answer: A
+
+Question: Which of the following is a form of malware that locks users out of their systems until a ransom is paid?  
+Option A: Spyware  
+Option B: Ransomware  
+Option C: Adware  
+Option D: Trojan  
+Correct Answer: B
+
+Question: In cybersecurity, what is two-factor authentication?  
+Option A: A process where users must enter two passwords  
+Option B: A method requiring two forms of identification  
+Option C: A security feature that doubles encryption  
+Option D: A backup process for data  
+Correct Answer: B
+
+Question: What is the role of an Intrusion Detection System (IDS)?  
+Option A: To repair compromised systems  
+Option B: To prevent malware infections  
+Option C: To detect unauthorized access  
+Option D: To encrypt sensitive information  
+Correct Answer: C
