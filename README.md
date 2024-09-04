@@ -26,9 +26,3 @@ You can customize the Quiz Application according to your needs:
 - Modify the `questions.txt` file to include your own set of questions.
 - Adjust the scoring system by modifying the `SCORE_PER_QUESTION` constant in the Java file.
 - Enhance the user interface by adding additional formatting or interaction features.
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## Credits
-This project is created by Kalutu Daniel.
